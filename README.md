@@ -50,6 +50,7 @@
 * [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
 * [Wes Bos](https://www.youtube.com/user/wesbos)
 * [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+* [DevInsideYou](https://www.youtube.com/devinsideyou)
 * [Data School](https://www.youtube.com/user/dataschool)
 * [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)
 * [Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ)
